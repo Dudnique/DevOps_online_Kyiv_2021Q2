@@ -1,0 +1,16 @@
+a3f5282 (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{0}: merge develop: Fast-forward
+336ffe5 HEAD@{1}: checkout: moving from develop to main
+a3f5282 (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{2}: merge styles: Merge made by the 'recursive' strategy.
+32598c1 (origin/images, images) HEAD@{3}: merge images: Fast-forward
+5e32514 HEAD@{4}: checkout: moving from styles to develop
+d740de3 (origin/styles, styles) HEAD@{5}: commit: Adding styles source to index.html
+2775a27 HEAD@{6}: commit: Adding styles folder with styles source
+5e32514 HEAD@{7}: checkout: moving from develop to styles
+5e32514 HEAD@{8}: checkout: moving from images to develop
+32598c1 (origin/images, images) HEAD@{9}: commit: Adding image source into index.html
+d299b6e HEAD@{10}: commit: Adding images folder with some images
+5e32514 HEAD@{11}: checkout: moving from develop to images
+5e32514 HEAD@{12}: commit: Creating index.html
+336ffe5 HEAD@{13}: checkout: moving from main to develop
+336ffe5 HEAD@{14}: clone: from github.com:Dudnique/DevOps_online_Kyiv_2021Q2.git
+
