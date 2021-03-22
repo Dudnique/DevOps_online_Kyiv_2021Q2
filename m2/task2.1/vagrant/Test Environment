@@ -1,0 +1,34 @@
+Vagrant.configure(2) do |config|
+        config.vm.define "Linux" do |ctl|
+                ctl.vm.box = "ubuntu/trusty64"
+                ctl.vm.hostname = "linux"
+                ctl.vm.network "private_network",ip: "192.168.2.5"
+                ctl.vm.provider "virtualbox" do |vb|
+                        vb.memory = 2048
+                end
+        end
+        config.vm.define "Server1" do |winsrv1|
+               winsrv1.vm.box = "mwrock/Windows2012R2"
+               winsrv1.vm.hostname = "S1"
+               winsrv1.vm.communicator = "winrm"
+              winsrv1.winrm.username = "vagrant"
+              winsrv1.winrm.password = "vagrant"
+               winsrv1.vm.network "private_network",ip: "192.168.2.6"
+               winsrv1.vm.provider "virtualbox" do |vb|
+                        vb.memory = 2048
+                        vb.cpus = 1
+                end
+        end
+        config.vm.define "Server2" do |winsrv2|
+                winsrv2.vm.box = "mwrock/Windows2012R2"
+                winsrv2.vm.hostname = "S2"
+                winsrv2.vm.communicator = "winrm"
+                winsrv2.winrm.username = "vagrant"
+                winsrv2.winrm.password = "vagrant"
+                winsrv2.vm.network "private_network",ip: "192.168.2.7"
+                winsrv2.vm.provider "virtualbox" do |vb|
+                        vb.memory = 2048
+                        vb.cpus = 1
+                end
+        end
+end
