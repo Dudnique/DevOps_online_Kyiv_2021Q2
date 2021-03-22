@@ -44,7 +44,7 @@ During the process of completing this part of the task:
 #### Configured and launched my own Vagrant box
 ![](https://github.com/Dudnique/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.1/vagrant/Launching%20my%20own%20vagrant%20box.png)
 #### Configured and launched test environment:
-#### Code of test environment you can check here [Test Environment](https://github.com/Dudnique/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.1/vagrant/Test%20Environment)
+#### Code of the test environment you can check here [Test Environment](https://github.com/Dudnique/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.1/vagrant/Test%20Environment)
 ![](https://github.com/Dudnique/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.1/vagrant/testenviroment%20vagrant.png)
 
 
