@@ -9,12 +9,10 @@ During the process of completing the task:
 7) publicly available static website on Amazon S3 was created.
 #### Lightsail connected VM:
 ![](https://github.com/Dudnique/Screenshots/blob/main/m2/task2.2/Lightsail%20connected%20vm.png)
-#### Created 2 EC2 instances:
-![](https://github.com/Dudnique/Screenshots/blob/main/m2/task2.2/2%20instances.png)
 #### Snapshot made:
 ![](https://github.com/Dudnique/Screenshots/blob/main/m2/task2.2/Snapshot%20for%20VM.png)
-#### Added shared folder:
-![](https://github.com/Dudnique/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.1/Adding%20shared%20folder.png)
+#### 2 EC2 instances:
+![](https://github.com/Dudnique/Screenshots/blob/main/m2/task2.2/cloned%20instance.png)
 #### Table of possible connections:
 ![](https://github.com/Dudnique/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.1/Table.png)
 ### ! To ensure ping of the host machine, Windows firewall was specially disabled !
