@@ -13,15 +13,14 @@ During the process of completing the task:
 ![](https://github.com/Dudnique/Screenshots/blob/main/m2/task2.2/Snapshot%20for%20VM.png)
 #### 2 EC2 instances:
 ![](https://github.com/Dudnique/Screenshots/blob/main/m2/task2.2/cloned%20instance.png)
-#### Table of possible connections:
-![](https://github.com/Dudnique/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.1/Table.png)
-### ! To ensure ping of the host machine, Windows firewall was specially disabled !
-#### Configured NAT network connection:
-![](https://github.com/Dudnique/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.1/vm1-vm2%20IP%20and%20connection.png)
-![](https://github.com/Dudnique/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.1/Pinging%20host.png)
-#### Configured Host-only network connection:
-![](https://github.com/Dudnique/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.1/Host-only!!.png)
-#### Configured Internal network connection:
+#### Attached Disk_D:
+![](https://github.com/Dudnique/Screenshots/blob/main/m2/task2.2/attached%20disk_D.png)
+#### Attached to cloned VM:
+![](https://github.com/Dudnique/Screenshots/blob/main/m2/task2.2/Attached%20to%20Clone_VM.png)
+![](https://github.com/Dudnique/Screenshots/blob/main/m2/task2.2/proof%20of%20attaching%20.png)
+#### Created file on Disk_D:
+![](https://github.com/Dudnique/Screenshots/blob/main/m2/task2.2/created%20file%20on%20disk_d.png)
+#### :
 ![](https://github.com/Dudnique/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.1/Internal.png)
 #### Configured Bridged network connection
 ![](https://github.com/Dudnique/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.1/bridged.png)
