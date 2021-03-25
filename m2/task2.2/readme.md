@@ -42,5 +42,4 @@ During the process of completing the task:
 #### Deployed Docker container on ECS:
 ![](https://github.com/Dudnique/Screenshots/blob/main/m2/task2.2/amazon%20ECS.png)
 ![](https://github.com/Dudnique/Screenshots/blob/main/m2/task2.2/launched%20ECS.png)
-#### Created static Amazon S3 publicly available site:
-####[Vladyslav Dudnyk site](http://www.dudnyk.com.s3-website.eu-central-1.amazonaws.com)
+#### Created static Amazon S3 publicly available site: [Vladyslav Dudnyk site](http://www.dudnyk.com.s3-website.eu-central-1.amazonaws.com)
