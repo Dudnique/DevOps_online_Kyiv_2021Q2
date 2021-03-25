@@ -20,7 +20,7 @@ During the process of completing the task:
 ![](https://github.com/Dudnique/Screenshots/blob/main/m2/task2.2/created%20file%20on%20disk_d.png)
 #### Attached to cloned VM:
 ![](https://github.com/Dudnique/Screenshots/blob/main/m2/task2.2/Attached%20to%20Clone_VM.png)
-![](https://github.com/Dudnique/Screenshots/blob/main/m2/task2.2/proof%20of%20attaching%20.png)
+![](https://github.com/Dudnique/Screenshots/blob/main/m2/task2.2/mounted%20storage.png)
 
 #### :
 ![](https://github.com/Dudnique/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.1/Internal.png)
