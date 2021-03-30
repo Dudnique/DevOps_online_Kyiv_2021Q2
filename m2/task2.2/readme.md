@@ -1,6 +1,6 @@
 ## TASK 2.2 
 During the process of completing the task:
-1) completed AWS tutorials were completed;
+1) AWS tutorials were completed;
 2) virtual machines with EC2 and Lightsail were launched; 
 3) operations with instances such as create snapshot, attach and detach disk, launch instance from backup etc were made;
 4) used AWS CLI with S3 was used;
